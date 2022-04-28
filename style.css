@@ -33,3 +33,16 @@
     background: orange;
     color: #fff;
 }
+
+table{
+    border: 1px solid black;
+}
+
+table th{
+    border-bottom: 2px solid black;
+}
+
+table td{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
